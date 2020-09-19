@@ -1,8 +1,15 @@
 #spot, #mcgonagall, #cheshire, #grumpy {
   display: none;
+  margin: auto;
+  width: 50%;
+  text-align: center;
 }
 
 .img {
   margin: auto;
 }
 
+body {
+  background: darkcyan;
+  color: #f0efef;
+}
